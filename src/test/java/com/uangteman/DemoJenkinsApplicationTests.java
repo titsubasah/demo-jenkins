@@ -18,7 +18,7 @@ public class DemoJenkinsApplicationTests {
 	
 	@Test
 	public void contextLoads() {
-		Assert.assertEquals(15, hitungService.add(10, 10));
+		Assert.assertEquals(20, hitungService.add(10, 10));
 	}
 
 }
